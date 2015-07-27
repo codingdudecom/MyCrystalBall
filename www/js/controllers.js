@@ -2,7 +2,6 @@ angular.module('myCrystalBallApp.controllers', [])
 .controller("CrystalBall",function($scope, $rootScope, $ionicPlatform, $ionicPopup){
 	$scope.possibleAnswers = 
 	["All stars indicate that the answer is YES", "Faith is totally in your hands", "And the universe says NO"];
-	// ["Cel mai probabil DA", "Din pacate sau din fericire NU", "Ori DA ori NU tot acolo se ajunge"];
 
 	$scope.showAnswerVar = false;
 

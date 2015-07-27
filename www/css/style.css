@@ -112,25 +112,6 @@ img.responsive{
 	font-weight: bold;
 	text-shadow:0 0 100px red, 0 0 70px #4422ff, 0 0 50px #4422ff, 0 0 30px #4422ff, 0 0 10px #4422ff,0 0 5px black;
 }
-/*.answer{
-	object-fit:scale-down;
-	position: absolute;
-	top:33%;
-	left: 25%;	
-	width: 50%;
-	vertical-align: middle;
-	
-	display: inline-block;
-	
-	
-	font-weight:bold;
-	pointer-events: none;
-	color:white;
-	font-size: 18px;
-	line-height: 26px;
-	text-shadow:0 0 100px red, 0 0 70px #4422ff, 0 0 50px #4422ff, 0 0 30px #4422ff, 0 0 10px #4422ff;
-	transition:opacity ease-in 0.5s;
-}*/
 
 .ng-hide{
 	opacity: 0;
