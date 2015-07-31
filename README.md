@@ -5,6 +5,10 @@ It's an application developed for demonstrating the scholar purposes. Here is th
 
  - [Coding Dude Building a Crystal Ball Mobile App with AngularJS and Ionic](http://www.coding-dude.com/wp/mobile-apps/building-a-crystal-ball-mobile-app-with-angularjs-and-ionic/)
 
+##Download from Google Play store
+
+[My Crystal Ball App](https://play.google.com/store/apps/details?id=com.codingdude.mycrystallball379140) by Coding Dude
+
 ## LICENSE
 
 This project is licensed under the MIT Open Source license.
