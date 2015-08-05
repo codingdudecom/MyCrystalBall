@@ -1,7 +1,13 @@
 angular.module('myCrystalBallApp.controllers', [])
 .controller("CrystalBall",function($scope, $rootScope, $ionicPlatform, $ionicPopup){
 	$scope.possibleAnswers = 
-	["All stars indicate that the answer is YES", "Faith is totally in your hands", "And the universe says NO"];
+	[
+		"All stars indicate that the answer is YES", 
+		"Faith is totally in your hands", 
+		"And the universe says NO",
+		"Yes, but you will have to really want it",
+		"Sometimes, you make your own luck"
+	];
 
 	$scope.showAnswerVar = false;
 
@@ -9,7 +15,7 @@ angular.module('myCrystalBallApp.controllers', [])
 	$scope.showAnswer = function(){
 		if (!$scope.showAnswerVar){
 			$scope.showAnswerVar=true;
-			$scope.answer = $scope.possibleAnswers[Math.floor(Math.random() * $scope.possibleAnswers.length) ];
+			$scope.answer = $scope.possibleAnswers[Math.floor(Math.random()*100) % $scope.possibleAnswers.length ];
 			setTimeout($scope.hideAnswer, 5000);
 		}
 	}
