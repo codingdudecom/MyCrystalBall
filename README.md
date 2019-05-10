@@ -10,8 +10,8 @@ It's an application developed for demonstrating the scholar purposes. Here is th
 [My Crystal Ball App](https://play.google.com/store/apps/details?id=com.codingdude.mycrystallball379140) by Coding Dude
 
 ## Graphic resources offered by
-- *PhotoshopSupply* [Free Photoshop Resources For Graphic Designers](https://www.photoshopsupply.com/)
-- *PSDDude* [Photoshop Tutorials & Resources](http://www.psd-dude.com/)
+- **PhotoshopSupply** [Free Photoshop Resources For Graphic Designers](https://www.photoshopsupply.com/)
+- **PSDDude** [Photoshop Tutorials & Resources](http://www.psd-dude.com/)
 
 ## LICENSE
 
